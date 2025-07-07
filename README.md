@@ -1,10 +1,10 @@
-This is part of a training course, with the full course covering:
-LLM and RAG foundations
-Embeddings
-Vector Databases
-Advanced RAG topics
+This is part of a training course, with the full course covering:</p>
+* LLM and RAG foundations
+* Embeddings
+* Vector Databases
+* Advanced RAG topics
 
-LLM App Frameworks
-Moving to Production
+* LLM App Frameworks
+* Moving to Production
 
-RAG infrastructure sizing
+* RAG infrastructure sizing
