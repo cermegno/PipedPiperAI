@@ -1,0 +1,29 @@
+Don Quixote by Miguel de Cervantes.
+-----------------------------------
+It was published in two parts in 1605 and 1615, is a foundational work of Western literature. The novel tells the story of Alonso Quijano, a middle-aged gentleman who, obsessed with chivalric romances, believes himself to be the knight-errant, Don Quixote de la Mancha.
+With his rusty armor, old horse Rocinante, and the peasant Sancho Panza as his loyal squire, Don Quixote sets out on a series of adventures. He seeks to revive chivalry, defend the helpless, and win the heart of his idealized lady, Dulcinea del Toboso.
+However, Don Quixote's perception of reality is distorted by his obsession. He famously mistakes windmills for giants, an inn for a castle, and sheep for an army. His actions, though often well-intentioned, lead to comical and often disastrous consequences.
+Sancho Panza provides a counterpoint to Don Quixote's idealism. He is pragmatic, grounded in reality, and motivated by the promise of reward. Despite his skepticism, Sancho remains loyal to Don Quixote, and their relationship develops into a complex and enduring friendship.
+Throughout their journey, Don Quixote and Sancho encounter a colorful cast of characters and experience a wide range of adventures, including battles, mistaken identities, and encounters with both helpful and malicious individuals.
+Ultimately, Don Quixote's illusions are shattered, and he returns home, renouncing his chivalric fantasies before his death. The novel explores themes of idealism versus realism, sanity and madness, the power of literature, and the nature of identity. It remains a rich and influential work, celebrated for its humor, character development, and exploration of the human condition.
+
+Introduction to Rocketry
+------------------------
+Rockets fly based on Newton's third law of motion, which states that for every action, there is an equal and opposite reaction.
+Here's how it works:
+- Propulsion: Rockets carry their own fuel and an oxidizer. This mixture is burned in a combustion chamber, producing hot, high-pressure gas.
+- Thrust: This gas is forced out of the rocket's nozzle at extremely high speeds. The action of the gas being expelled creates an equal and opposite reaction, pushing the rocket forward. This force is called thrust.
+- Momentum: The momentum of the expelled gas is equal to the momentum gained by the rocket, propelling it in the opposite direction.
+- Movement in Space: Unlike airplanes, rockets don't need air to push against. They operate on the principle of action and reaction. In the vacuum of space, the absence of air resistance actually makes rockets more efficient.
+- Overcoming Gravity: To launch from Earth, a rocket's thrust must be greater than the force of gravity pulling it down.
+
+Process of making paper
+-----------------------
+Paper is made primarily from cellulose fibers, most commonly derived from wood. Here's an overview of the process:
+- Pulping: The process begins with pulping, where wood chips are broken down into cellulose fibers. This can be done mechanically or chemically. Mechanical pulping grinds the wood into fibers, while chemical pulping uses chemicals to dissolve lignin, a substance that binds the wood fibers.
+- Preparing the Pulp: The resulting pulp is then washed and sometimes bleached to remove impurities and whiten it. At this stage, other materials can be added to achieve specific paper properties. For example, fillers like clay or calcium carbonate can improve the paper's texture and printing quality, while sizing agents can enhance its resistance to water.
+- Forming the Paper: The pulp is then fed onto a paper machine, such as a Fourdrinier machine. The pulp is spread onto a moving mesh screen, allowing water to drain and forming a sheet of fibers.
+- Pressing: The sheet then passes through a series of rollers, which press out more water and compact the fibers, making the paper denser and stronger.
+- Drying: The paper sheet is then dried by passing it through a series of heated rollers. This removes the remaining water and creates a dry, stable sheet.
+- Finishing: The final step is finishing, which may involve calendering (pressing the paper between rollers to smooth and compress it), coating (applying substances to the surface to improve its appearance or printability), or cutting the paper into the desired size and shape.
+The result is the paper we use for various purposes, from writing and printing to packaging and tissue products.
